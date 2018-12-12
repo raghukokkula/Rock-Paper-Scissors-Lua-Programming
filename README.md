@@ -1,5 +1,3 @@
-# Figure 1 Game Screen
-
 For this assignment, We have created the Rock, Paper, Scissor game that featured Alex
 Kidd © SEGA. We have implemented the following game components:
 

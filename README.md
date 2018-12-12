@@ -1,4 +1,4 @@
-For this assignment, We have created the Rock, Paper, Scissor game that featured Alex
+For this project, We have created the Rock, Paper, Scissor game that featured Alex
 Kidd © SEGA. We have implemented the following game components:
 
 1. We have used the Composer library and three images (png,
